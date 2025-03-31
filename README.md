@@ -18,9 +18,7 @@ Welcome to the **Cart Project**, a dynamic and interactive cart system that allo
 ---
 
 ## 🛠 Technologies Used
-🎨 **Frontend**: React.js / Next.js  
-🖥 **Backend**: Spring Boot  
-🗄 **Database**: MySQL  
+🎨 **Frontend**: React.js / Next.js   
 🎨 **Styling**: Tailwind CSS  
 
 ---
